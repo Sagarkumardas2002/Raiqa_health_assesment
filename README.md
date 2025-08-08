@@ -13,13 +13,13 @@ A simple React application that allows users to increment/decrement a counter, a
 - Automatically resets the counter to 0 after adding to the list.
 
 ### **List View**
-
 - Displays all added numbers in a scrollable container.
 - Shows the position/index of each number.
 - Remove specific numbers from the list.
 - Reset the entire list.
 - Sort list in ascending (`↓`) or descending (`↑`) order.
 - Persistent data storage using `localStorage`.
+- Indicated the highest value with green background and smallest value with red background.
 
 ---
 
